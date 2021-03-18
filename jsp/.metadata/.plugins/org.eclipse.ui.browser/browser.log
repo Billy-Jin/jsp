@@ -1,0 +1,20 @@
+
+11월 25, 2020 15:31:08.87 NEW SESSION
+11월 25, 2020 15:31:08.87 [588:10084:1125/153108.866:ERROR:device_event_log_impl.cc(211)] [15:31:08.865] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 25, 2020 15:40:59.65 [1125/154059.654:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 25, 2020 16:49:12.56 [3996:1796:1125/164912.563:ERROR:device_event_log_impl.cc(211)] [16:49:12.563] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 25, 2020 16:59:08.34 [1125/165908.339:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 25, 2020 18:49:07.14 [3996:1796:1125/184907.140:ERROR:device_event_log_impl.cc(211)] [18:49:07.140] USB: usb_service_win.cc:258 Failed to get device driver name: ��Ұ� �����ϴ�. (0x490)
+11월 25, 2020 19:27:13.06 [3996:1796:1125/192713.067:ERROR:CONSOLE(2045)] "Uncaught TypeError: Cannot read property 'contains' of undefined", source: chrome://settings/settings.js (2045)
+11월 25, 2020 19:27:16.68 [3996:1796:1125/192716.683:ERROR:CONSOLE(2045)] "Uncaught TypeError: Cannot read property 'contains' of undefined", source: chrome://settings/settings.js (2045)
+
+11월 26, 2020 14:16:52.96 NEW SESSION
+11월 26, 2020 14:16:52.96 [7676:920:1126/141652.964:ERROR:device_event_log_impl.cc(211)] [14:16:52.964] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 26, 2020 14:26:40.75 [1126/142640.755:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+11월 26, 2020 14:51:09.55 [9728:9460:1126/145109.557:ERROR:device_event_log_impl.cc(211)] [14:51:09.558] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 26, 2020 15:00:59.35 [1126/150059.350:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
+
+11월 27, 2020 14:25:14.83 NEW SESSION
+11월 27, 2020 14:25:14.83 [6188:13692:1127/142514.831:ERROR:device_event_log_impl.cc(211)] [14:25:14.834] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 27, 2020 14:25:14.84 [6188:13692:1127/142514.831:ERROR:device_event_log_impl.cc(211)] [14:25:14.834] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: �ý��ۿ� ������ ��ġ�� �۵����� �ʽ��ϴ�. (0x1F)
+11월 27, 2020 14:35:07.55 [1127/143507.558:ERROR:directory_reader_win.cc(43)] FindFirstFile: ������ ��θ� ã�� �� �����ϴ�. (0x3)
